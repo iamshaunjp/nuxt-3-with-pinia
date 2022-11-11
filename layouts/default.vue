@@ -5,7 +5,11 @@
       <NuxtLink to="/">
         <h1>Adventure Store</h1>
       </NuxtLink>
-      <NuxtLink to="/cart">Cart</NuxtLink>
+      <NuxtLink to="/cart">
+        <span class="material-icons-outlined">
+          shopping_bag
+        </span>
+      </NuxtLink>
     </header>
 
     <div>
