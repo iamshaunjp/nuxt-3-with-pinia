@@ -1,4 +1,30 @@
 {
+  "cart": [
+    {
+      "title": "Lava Potion",
+      "price": 20,
+      "description": "Gain heat resistance for 3 minutes.",
+      "img": "/img/potion.png",
+      "id": 1,
+      "quantity": 1
+    },
+    {
+      "title": "Healing Crystal",
+      "price": 30,
+      "description": "Makes the owner immune to poison.",
+      "img": "/img/crystal.png",
+      "id": 7,
+      "quantity": 1
+    },
+    {
+      "title": "Exploding Gem",
+      "price": 50,
+      "description": "Throw at the ground to explode.",
+      "img": "/img/gem.png",
+      "id": 10,
+      "quantity": 1
+    }
+  ],
   "products": [
     {
       "title": "Lava Potion",
