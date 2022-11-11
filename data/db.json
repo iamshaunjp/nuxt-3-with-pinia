@@ -22,7 +22,15 @@
       "description": "Hammer infused with posion gem magic.",
       "img": "/img/hammer.png",
       "id": 2,
-      "quantity": 3
+      "quantity": 2
+    },
+    {
+      "title": "Ring of Fortitude",
+      "price": 75,
+      "description": "Casts a magic protection barrier.",
+      "img": "/img/ring.png",
+      "id": 4,
+      "quantity": 1
     }
   ],
   "products": [
