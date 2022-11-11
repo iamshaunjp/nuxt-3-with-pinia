@@ -4,7 +4,7 @@
 
     <div class="grid grid-cols-2 gap-7">
       <div v-for="product in products">
-        {{ product.title }}
+        <ProductCard :product="product" />
       </div>
     </div>
   </div>
