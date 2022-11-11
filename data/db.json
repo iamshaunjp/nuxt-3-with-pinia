@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "title": "Lava Potion",
+      "price": 20,
+      "description": "Gain heat resistance for 3 minutes.",
+      "img": "/img/potion.png",
+      "id": 1
+    },
+    {
+      "title": "Poison Hammer",
+      "price": 100,
+      "description": "Hammer infused with posion gem magic.",
+      "img": "/img/hammer.png",
+      "id": 2
+    },
+    {
+      "title": "Sun Shield",
+      "price": 50,
+      "description": "Shield passed down the by tribe of Ancients.",
+      "img": "/img/shield.png",
+      "id": 3
+    },
+    {
+      "title": "Ring of Fortitude",
+      "price": 75,
+      "description": "Casts a magic protection barrier.",
+      "img": "/img/ring.png",
+      "id": 4
+    },
+    {
+      "title": "Crystal Sword",
+      "price": 120,
+      "description": "Sharp sword the can cut through armour.",
+      "img": "/img/sword.png",
+      "id": 5
+    },
+    {
+      "title": "Summoning Book",
+      "price": 200,
+      "description": "Summon the undead to aid in battle.",
+      "img": "/img/book.png",
+      "id": 6
+    },
+    {
+      "title": "Healing Crystal",
+      "price": 30,
+      "description": "Makes the owner immune to poison.",
+      "img": "/img/crystal.png",
+      "id": 7
+    },
+    {
+      "title": "Healing Herbs",
+      "price": 30,
+      "description": "Restores user back to full health.",
+      "img": "/img/herb.png",
+      "id": 8
+    },
+    {
+      "title": "Flaming Axe",
+      "price": 150,
+      "description": "Attack foes with burning energy.",
+      "img": "/img/axe.png",
+      "id": 9
+    },
+    {
+      "title": "Exploding Gem",
+      "price": 50,
+      "description": "Throw at the ground to explode.",
+      "img": "/img/gem.png",
+      "id": 10
+    },
+    {
+      "title": "Mysterious Key",
+      "price": 500,
+      "description": "Opens a chest sealed by darkness.",
+      "img": "/img/key.png",
+      "id": 11
+    },
+    {
+      "title": "Golden Rock",
+      "price": 100,
+      "description": "Used to trade with the mountain dwarves.",
+      "img": "/img/gold.png",
+      "id": 12
+    }
+  ]
+}
