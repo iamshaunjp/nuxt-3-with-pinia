@@ -1,6 +1,6 @@
 <template>
   <div class="flex">
-    <button class="btn">-</button>
+    <button class="btn" @click="cartStore.decQuantity(product)">-</button>
 
     <p class="py-1 px-4 mx-1 rounded-sm text-lg bg-gray-200">
       {{ product.quantity }}
