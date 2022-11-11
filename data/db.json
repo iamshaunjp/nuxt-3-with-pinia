@@ -5,7 +5,8 @@
       "price": 20,
       "description": "Gain heat resistance for 3 minutes.",
       "img": "/img/potion.png",
-      "id": 1
+      "id": 1,
+      "quantity": 3
     },
     {
       "title": "Healing Crystal",
@@ -13,7 +14,7 @@
       "description": "Makes the owner immune to poison.",
       "img": "/img/crystal.png",
       "id": 7,
-      "quantity": 1
+      "quantity": 2
     },
     {
       "title": "Exploding Gem",

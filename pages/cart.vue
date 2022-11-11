@@ -7,6 +7,7 @@
       <div v-for="product in cartStore.cart" class="flex gap-8 items-center">
         <img :src="product.img" :alt="product.title">
         <p class="text-white">{{product.title}}</p>
+        <ProductQuantity :product="product" />
         <p class="text-white">{{product.price * product.quantity}} coins</p>
 
         <!-- delete -->
