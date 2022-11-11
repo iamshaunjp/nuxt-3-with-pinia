@@ -17,11 +17,11 @@
       "quantity": 1
     },
     {
-      "title": "Exploding Gem",
-      "price": 50,
-      "description": "Throw at the ground to explode.",
-      "img": "/img/gem.png",
-      "id": 10,
+      "title": "Poison Hammer",
+      "price": 100,
+      "description": "Hammer infused with posion gem magic.",
+      "img": "/img/hammer.png",
+      "id": 2,
       "quantity": 1
     }
   ],
