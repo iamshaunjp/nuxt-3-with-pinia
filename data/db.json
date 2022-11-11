@@ -5,8 +5,7 @@
       "price": 20,
       "description": "Gain heat resistance for 3 minutes.",
       "img": "/img/potion.png",
-      "id": 1,
-      "quantity": 1
+      "id": 1
     },
     {
       "title": "Healing Crystal",

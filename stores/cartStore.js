@@ -17,5 +17,15 @@ export const useCartStore = defineStore('cart', {
       this.cart = data
       console.log(this.cart)
     },
+    async deleteFromCart(product) {
+      this.cart = this.cart.filter(p => {
+        return p.id !== product.id
+      })
+
+      // make delete request
+      await $fetch('http://localhost:4000/cart/' + product.id, {
+        method: 'delete'
+      })
+    },
   }
 })

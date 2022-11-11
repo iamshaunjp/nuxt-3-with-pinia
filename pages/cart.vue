@@ -8,6 +8,11 @@
         <img :src="product.img" :alt="product.title">
         <p class="text-white">{{product.title}}</p>
         <p class="text-white">{{product.price * product.quantity}} coins</p>
+
+        <!-- delete -->
+        <button class="ml-auto" @click="cartStore.deleteFromCart(product)">
+          <span class="material-icons-outlined text-white">delete</span>
+        </button>
       </div>
 
       <!-- cart total -->
