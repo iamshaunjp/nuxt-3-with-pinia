@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>Your Basket</h2>
+    <h2 class="text-white text-2xl text-center my-8">Your Basket</h2>
   </div>
 </template>
 
